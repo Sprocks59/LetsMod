@@ -1,0 +1,19 @@
+[
+{
+  "modid": "LetsMod",
+  "name": "LetsMod",
+  "description": "My LetsMod Mod using Pahimar's LetsMod Series",
+  "version": "",
+  "credits": "Created by Sprocks59",
+  "logoFile": "",
+  "mcversion": "1.5.*",
+  "url": "http://github.com/Sprocks59/LetsMod",
+  "updateUrl": "",
+  "authors": [ "Sprocks59", "Pahimar" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
