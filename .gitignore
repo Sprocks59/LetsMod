@@ -1,0 +1,23 @@
+# Eclipse stuff
+/.classpath
+/.project
+/.settings
+/.checkstyle
+
+# various other potential build files
+/build
+/bin
+/dist
+/manifest.mf
+
+/world
+
+# Mac filesystem dust
+*.DS_Store
+
+# Testing files:
+debug.log
+
+# Doxygen
+/docs/html
+debug.txt
