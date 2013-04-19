@@ -1,9 +1,9 @@
 [
 {
   "modid": "LetsMod",
-  "name": "LetsMod",
+  "name": "Let's Mod",
   "description": "My LetsMod Mod using Pahimar's LetsMod Series",
-  "version": "",
+  "version": "@VERSION@",
   "credits": "Created by Sprocks59",
   "logoFile": "",
   "mcversion": "1.5.*",
