@@ -1,6 +1,6 @@
 package com.github.Sprocks59.LetsMod;
 
-import com.github.Sprocks.LetsMod.Lib.Reference;
+import com.github.Sprocks59.LetsMod.Lib.Reference;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.Init;

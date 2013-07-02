@@ -13,7 +13,10 @@
 /world
 
 # Mac filesystem dust
-*.DS_Store
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
 
 # Testing files:
 debug.log
@@ -21,3 +24,6 @@ debug.log
 # Doxygen
 /docs/html
 debug.txt
+
+#misc
+build.properties

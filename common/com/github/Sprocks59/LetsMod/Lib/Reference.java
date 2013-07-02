@@ -1,4 +1,4 @@
-package com.github.Sprocks.LetsMod.Lib;
+package com.github.Sprocks59.LetsMod.Lib;
 
 public class Reference
 {
